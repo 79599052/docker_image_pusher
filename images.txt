@@ -4,5 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-vulhub/kibana:5.6.12
-vulhub/elasticsearch:5.6.16
+vulhub/librsvg:2.50.7-php
