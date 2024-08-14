@@ -4,5 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-vulhub/adminer:4.7.8
-vulhub/adminer:4.6.2
+vulhub/couchdb:3.2.1
