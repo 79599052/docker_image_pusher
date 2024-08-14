@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-vulhub/librsvg:2.50.7-php
+vulhub/uwsgi-php:2.0.16
