@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-vulhub/httpd:2.4.50
+vulhub/influxdb:1.6.6
