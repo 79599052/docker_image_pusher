@@ -4,6 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-vulhub/xxl-job:2.2.0-admin
-vulhub/xxl-job:2.2.0-executor
-mysql:5.7
+vulhub/weblogic:12.2.1.3-2018
