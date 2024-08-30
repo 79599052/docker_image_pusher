@@ -4,4 +4,6 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-vulhub/influxdb:1.6.6
+vulhub/xxl-job:2.2.0-admin
+vulhub/xxl-job:2.2.0-executor
+mysql:5.7
