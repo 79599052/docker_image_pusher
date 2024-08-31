@@ -4,5 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-vulhub/weblogic:10.3.6.0-2017
-vulhub/baselinux:centos-6
+vulhub/struts2:2.5.16
